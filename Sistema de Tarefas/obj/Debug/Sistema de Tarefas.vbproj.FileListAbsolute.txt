@@ -1,0 +1,16 @@
+C:\Users\Felipe\source\repos\Sistema de Tarefas\Sistema de Tarefas\bin\Debug\Sistema de Tarefas.exe.config
+C:\Users\Felipe\source\repos\Sistema de Tarefas\Sistema de Tarefas\bin\Debug\Sistema de Tarefas.exe
+C:\Users\Felipe\source\repos\Sistema de Tarefas\Sistema de Tarefas\bin\Debug\Sistema de Tarefas.pdb
+C:\Users\Felipe\source\repos\Sistema de Tarefas\Sistema de Tarefas\bin\Debug\Sistema de Tarefas.xml
+C:\Users\Felipe\source\repos\Sistema de Tarefas\Sistema de Tarefas\obj\Debug\Sistema de Tarefas.vbproj.AssemblyReference.cache
+C:\Users\Felipe\source\repos\Sistema de Tarefas\Sistema de Tarefas\obj\Debug\Sistema de Tarefas.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Felipe\source\repos\Sistema de Tarefas\Sistema de Tarefas\obj\Debug\Sistema_de_Tarefas.Form1.resources
+C:\Users\Felipe\source\repos\Sistema de Tarefas\Sistema de Tarefas\obj\Debug\Sistema_de_Tarefas.Resources.resources
+C:\Users\Felipe\source\repos\Sistema de Tarefas\Sistema de Tarefas\obj\Debug\Sistema de Tarefas.vbproj.GenerateResource.cache
+C:\Users\Felipe\source\repos\Sistema de Tarefas\Sistema de Tarefas\obj\Debug\Sistema de Tarefas.vbproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\Sistema de Tarefas\Sistema de Tarefas\obj\Debug\Sistema de Tarefas.exe
+C:\Users\Felipe\source\repos\Sistema de Tarefas\Sistema de Tarefas\obj\Debug\Sistema de Tarefas.xml
+C:\Users\Felipe\source\repos\Sistema de Tarefas\Sistema de Tarefas\obj\Debug\Sistema de Tarefas.pdb
+C:\Users\Felipe\source\repos\Sistema de Tarefas\Sistema de Tarefas\bin\Debug\MySql.Data.dll
+C:\Users\Felipe\source\repos\Sistema de Tarefas\Sistema de Tarefas\obj\Debug\Sistema_de_Tarefas.Form2.resources
+C:\Users\Felipe\source\repos\Sistema de Tarefas\Sistema de Tarefas\obj\Debug\Sistema de Tarefas.vbproj.CopyComplete
